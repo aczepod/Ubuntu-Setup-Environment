@@ -1,0 +1,3 @@
+doc.php.net
+pear.php.net
+pecl.php.net
